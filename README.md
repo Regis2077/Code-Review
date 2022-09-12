@@ -75,7 +75,7 @@ Alguns cuidados para que o objetivo da PR seja cumprido da melhor maneira possí
 - Provedores de hospedagem, como o GitHub, têm um recurso de "sugestão" que permite adicionar uma sugestão de código diretamente no comentário, que pode ser instantaneamente aceita e confirmada a partir do PR.
 - Lembre-se de um PR é uma discussão. É um processo de mão dupla, dando a você a oportunidade de defender seu código e explicar com mais contexto o que você estava pensando.
 - Não tenha medo de oferecer contra-argumentos, mas esteja pronto com um raciocínio válido, se você realmente acredita em sua solução.
-## artigos de referência
+## Artigos de referência
 - [Git Best Practices – How to Write Meaningful Commits, Effective Pull Requests, and Code Reviews](https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/)
 - [Como fazer um git squash para melhorar seu histórico de commits.](https://blog.novatics.com.br/como-fazer-um-git-squash-para-melhorar-seu-hist%C3%B3rico-de-commits-2a93835bfe8f)
 - [Git smash](http://blog.abraseucodigo.com.br/git-squash-wtf.html)
